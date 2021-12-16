@@ -1,0 +1,301 @@
+*, body, html{
+margin: 0;
+padding: 0;
+
+}
+.enter a {
+font-family: cursive;
+float: left;
+padding: 4px;
+margin-left: 30px;
+text-decoration: none;
+color: white;
+font-size: 35px;
+}
+.lo{
+width: 100%;
+background: #333;
+color: coral;
+height: 60px;
+font-family: cursive;
+font-size:x-large;
+
+}
+.lo #po{
+
+
+height: 30px;
+padding: 15px;
+font-size: 50px;
+line-height: 30px;
+float: right;
+}
+.lo > ul {
+margin: 0%;
+padding: 0;
+float: right;
+list-style-type: none;
+}
+.lo > ul > li {
+
+float: right;
+
+}
+.op{
+display: inline-block;
+padding: 15px 20px;
+height: 30px;
+line-height: 30px;
+color: #fff;
+text-decoration: none;
+transition:  0.5s ease-out;
+}
+.op:hover{
+background-color: coral;
+transition: all 0.5s ease-out;
+
+}
+
+
+.luno{
+position: absolute;
+top: 60px ;
+overflow: hidden;
+background-color: #333 ;
+max-height: 0;
+
+}
+.luno a {
+color: white;
+text-decoration: none;
+padding: 30px 20px;
+
+
+}
+
+.ol{
+padding: 0;
+}
+.ol ul{
+width: 100%;
+padding: 0;
+margin: 0;
+list-style-type: none;
+}
+
+.ol ul li a{
+display: inline-block;
+padding: 10px 20px;
+
+}
+.ol ul li:hover{
+
+background-color: coral ;
+
+}
+
+.op:focus{
+background-color: coral ;
+transition:  0.5s ease-out;
+}
+
+.lo ul li:hover .luno{
+max-height: 400px;
+
+
+
+}
+
+
+
+
+.tr{
+position: absolute;
+margin: 0;
+padding: 0;
+
+}
+.yu{
+text-transform: uppercase;
+font-family: cursive ;
+font-size: 190px;
+margin-left: 300px;
+margin-top: 150px;
+color: rgba(0, 59, 63, 0.801);
+text-shadow:  6px 6px rgba(0, 0, 0, 0.801);
+}
+.re{
+    color: black;
+font-size:25px;
+
+margin-top: 0;
+
+}
+
+.ui{
+
+display: inline-block;   
+    margin: 0;
+    padding: 0;
+}
+
+ 
+ .az{
+color: rgb(0, 0, 0);
+    
+background: none;
+font-family: lateef;
+width: 1200px;
+height: 300px;
+font-size: 45px;
+padding: 10px;
+text-align: center;
+ }
+
+ .fd img{
+
+    border-radius: 40px;
+width: 1200px;
+ }
+
+.bv{
+    position: absolute;
+margin: 0;
+padding: 0;
+}
+
+.gy{
+
+
+   color: rgba(255, 255, 255, 0.253);
+    font-family: Dancing Script;
+    font-size: 250px;
+    margin-left: 600px;
+    margin-top: 58px;
+    text-shadow: #0c000028 3px 4px;
+
+}
+
+.ss{
+
+background-color: rgba(14, 189, 131, 0.041) ;
+width: 1500px;
+
+border-radius: 40px;
+transition: all 2s ease-out;
+}
+.ss:hover{
+
+    background-color: rgba(10, 243, 49, 0.425) ;
+
+}
+
+.tt{
+
+font-family: tajawal ;
+
+}
+ .rty img{
+width: 450px;
+border-radius: 70px;
+
+ }
+
+ .rtyy img{
+width: 450px;
+    border-radius: 70px;
+    
+     }
+
+.yyt{
+
+display: block;
+padding-top: 700px;
+
+}
+
+.lllll{
+    margin: 300px;
+width: 350px;
+padding: 40px;
+background-color: #191919;
+position: absolute;
+left: 23%;
+text-align: center;
+border-radius: 50px;
+}
+.lllll h1{
+font-family: lateef;
+color: white;
+font-weight: 500;
+}
+
+
+.lllll input[type="text"], .lllll input[type="password"]{
+border: 2px solid#3498db;
+background: none;
+display: block;
+margin: 10px auto;
+text-align: center;
+padding: 14px 10px;
+width: 250px;
+outline: none;
+color: white;
+border-radius: 24px ;
+transition: 0.25s;
+color: white;
+
+}
+.lllll input[type="text"]:focus, .lllll input[type="password"]:focus{
+border: 2px solid white;
+width: 280px;
+
+}
+
+.lllll input[type="submit"]{
+border: 2px solid #2ecc71;
+background: none;
+display: block;
+margin: 30px auto;
+border-radius: 24px;
+padding: 14px 40px;
+transition: 0.5s;
+cursor: pointer;
+color: white;
+
+}
+
+.lllll input[type="submit"]:hover{
+
+background: #2ecc71;
+
+}
+
+.slider{
+
+margin: 40px auto;
+width: 720px;
+
+}
+
+.slide{
+width: 600px;
+height: 350px;
+overflow: hidden;
+float: left;
+position: relative;
+
+}
+.slide img{
+width: 100%;
+height: 100%;
+
+}
+
+.prev, .next{
+width: 60px;
+float: left;
+margin-top: 150px;
+cursor: pointer;
+}
+
